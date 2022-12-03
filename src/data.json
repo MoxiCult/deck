@@ -1,0 +1,26 @@
+[
+    {
+        "name":"home",
+        "coordinates":[ -75.31472778320312, 43.110633850097656]
+    },
+    {
+        "name": "cottage",
+        "coordinates": [-76.09200286865234, 43.99542236328125]
+    },
+    {
+        "name": "work",
+        "coordinates": [-75.40608215332031, 43.21574783325195]
+    },
+    {
+        "name": "Lake Placid",
+        "coordinates": [ -73.979874, 44.279621]
+    },
+    {
+        "name": "Hearts Hill Elementary",
+        "coordinates": [-75.321701, 43.10608]
+    },
+    {
+        "name": "Saratogs",
+        "coordinates":[-73.72111511230469, 43.09037780761719]
+    }
+]
